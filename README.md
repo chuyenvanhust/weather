@@ -1,2 +1,2 @@
 # weather
-easy weather app,only a front-end of a app,take online API
+easy weather app,only front-end of a app,take online API
